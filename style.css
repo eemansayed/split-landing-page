@@ -24,3 +24,10 @@ background: #333;
   height: 100%;
   overflow: hidden;
 }
+
+.split.left {
+  left: 0;
+  background: url('images/ps5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
