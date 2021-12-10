@@ -101,3 +101,7 @@ background: #333;
   background-color: var(--right-bg-color);
 }
 
+.hover-left .left {
+width: var(--hover-width);
+}
+
