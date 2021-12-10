@@ -124,3 +124,15 @@ width: var(--hover-width);
   width: var(--other-width);
 }
 
+@media(max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+    top: 25%;
+  }
+
+  .btn {
+    padding: 1.2rem;
+    width: 10rem;
+  }
+}
+
